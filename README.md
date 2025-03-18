@@ -18,8 +18,8 @@ Before running the application, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/AlexeiCocu/b_accounts3.git
+cd b_accounts3
 ```
 
 ### 2. Set Up the Backend
