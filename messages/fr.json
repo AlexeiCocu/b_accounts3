@@ -1,0 +1,47 @@
+{
+  "Dashboard": {
+    "main": "Principale",
+    "createAccount": "Créer un compte",
+    "addNewAccount": "Ajouter un nouveau compte",
+    "editAccount": "Modifier le compte",
+    "save": "Sauvegarder",
+    "create": "Créer",
+    "accountNotFound": "Compte non trouvé",
+    "errorAllFieldsRequired": "Tous les champs sont obligatoires",
+    "errorBalanceNegative": "Le solde ne peut pas être négatif"
+  },
+  "HomePage": {
+    "greeting": "Bienvenue chez Bank Account Manager",
+    "viewAccounts": "Afficher les comptes"
+  },
+  "TransferPage" : {
+    "pageTitle": "Transférer des fonds",
+    "fromAccount": "À partir du compte",
+    "toAccount": "Pour rendre compte",
+    "amount": "Somme",
+    "transfer": "Transfert",
+    "errorFillAllFields": "Please fill in all fields with valid values",
+    "errorSameAccount": "Impossible de transférer vers le même compte",
+    "errorAccountNotFound": "Un ou les deux comptes non trouvés,",
+    "unknownError": "Une erreur inconnue s'est produite"
+  },
+  "General": {
+    "dashboard": "Tableau de bord",
+    "home": "Page d'accueil",
+    "title": "Tableau de bord",
+    "accountsList": "Liste des comptes",
+    "noAccounts": "Aucun compte disponible.",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "ownerId": "ID du propriétaire",
+    "currency": "Devise",
+    "balance": "Solde",
+    "actions": "Sctes",
+    "cancel": "Annuler",
+    "makeATransfer": "Effectuer un virement",
+    "viewAccounts": "Afficher les comptes",
+    "searchPlaceholder": "Rechercher par ID ou par devise...",
+    "selectPlaceholder": "Sélectionnez un compte...",
+    "selectCurrencyPlaceholder": "Sélectionnez une devise..."
+  }
+}

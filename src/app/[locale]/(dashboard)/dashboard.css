@@ -1,0 +1,13 @@
+body {
+    background: linear-gradient(to right, #fffbe6, #f3c3c3);
+}
+
+.custom-row {
+    margin: 0 !important; /* Remove all margins */
+    padding: 0 !important; /* Remove all padding */
+}
+
+.custom-col {
+    padding: 0 !important; /* Remove all padding */
+}
+

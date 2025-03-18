@@ -1,0 +1,46 @@
+{
+  "Dashboard": {
+    "main": "Main",
+    "createAccount": "Create Account",
+    "addNewAccount": "Add new account",
+    "editAccount": "Edit account",
+    "save": "Save",
+    "create": "Create",
+    "accountNotFound": "Account not found",
+    "errorAllFieldsRequired": "All fields are required",
+    "errorBalanceNegative": "Balance cannot be negative"
+  },
+  "HomePage": {
+    "greeting": "Welcome to the Bank Account Manager",
+    "viewAccounts": "View accounts"
+  },
+  "TransferPage" : {
+    "pageTitle": "Transfer Funds",
+    "fromAccount": "From account",
+    "toAccount": "To account",
+    "amount": "Amount",
+    "transfer": "Transfer",
+    "errorFillAllFields": "Please fill in all fields with valid values",
+    "errorSameAccount": "Cannot transfer to the same account",
+    "errorAccountNotFound": "One or both accounts not found",
+    "unknownError": "An unknown error occurred"
+  },
+  "General": {
+    "dashboard": "Dashboard",
+    "home": "Home",
+    "title": "Dashboard",
+    "accountsList": "Accounts List",
+    "noAccounts": "No accounts available.",
+    "edit": "Edit",
+    "delete": "Delete",
+    "ownerId": "Owner ID",
+    "currency": "Currency",
+    "balance": "Balance",
+    "actions": "Actions",
+    "cancel": "Cancel",
+    "makeATransfer": "Make a transfer",
+    "searchPlaceholder": "Search by Owner ID or Currency...",
+    "selectPlaceholder": "Select an account...",
+    "selectCurrencyPlaceholder": "Select a currency..."
+  }
+}
